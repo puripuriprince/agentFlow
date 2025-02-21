@@ -1,0 +1,19 @@
+# Data Pipeline
+pandas==2.2.0
+beautifulsoup4==4.12.3
+requests==2.31.0
+scrapy==2.11.0
+boto3==1.34.34
+
+# ML Pipeline
+torch==2.2.0
+transformers==4.37.2
+datasets==2.16.1
+fastapi==0.109.2
+uvicorn==0.27.1
+
+# Vector Database
+weaviate-client==3.25.3
+
+# Utils
+python-dotenv==1.0.1
